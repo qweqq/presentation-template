@@ -1,0 +1,13 @@
+{
+  "name": "presentations-reveal",
+  "version": "1.0.0",
+  "description": "dummy",
+  "browser": "src/index.html",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "highlight.js": "9.13.1",
+    "reveal.js": "3.7.0",
+    "reveal_external": "https://github.com/qweqq/reveal_external.git"
+  }
+}
